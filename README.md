@@ -1,7 +1,7 @@
 # CRUD-Operation with details page
 ## Sreenshoot:
 
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Tuhin.png)
+![crud-Op](https://github.com/abidhasantuhin/WEBEXA/blob/main/output/Tuhin.jpg)
 
 
 
